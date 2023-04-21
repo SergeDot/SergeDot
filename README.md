@@ -19,4 +19,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" title="Selenium" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" alt="cucumber" title="Cucumber" width="40" height="40"/>
   <img src="https://static.javatpoint.com/tutorial/testng/images/testng-tutorial.png" alt="testng" title="TestNG" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="testng" title="TestNG" width="40" height="40"/>  
 </p>
