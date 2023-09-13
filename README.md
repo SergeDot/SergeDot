@@ -3,7 +3,7 @@
 #### I'm passionate about technology, finance, analytics, hotel industry 📉 📈
 #### Over 6 years of successful experience
 
-[![Linkedin Badge](https://img.shields.io/badge/-My%20Linked-blue?style=flat-square)![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/testng/)
+[![Linkedin Badge](https://img.shields.io/badge/-My%20Linked-blue?style=flat-square)![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mysql/)
 
 ### Skills
 <b>Languages:</b> Java (working knowledge), JavaScript (working knowledge), MySQL, Python (basics), Gherkin (basics)<br />
